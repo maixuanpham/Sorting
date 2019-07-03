@@ -1,0 +1,216 @@
+Sorting Method = Selection Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = Integer
+Number of Key Compares = 499500
+Number of Data Moves = 3000
+Times in Milliseconds = 4.044
+First 5 pairs:
+	(7, 7)   	(11, 11)   	(15, 15)   	(39, 39)   	(59, 59)   
+Last 5 pairs:
+	(8163, 8163)   	(8167, 8167)   	(8175, 8175)   	(8183, 8183)   	(8191, 8191)   
+
+Sorting Method = Insertion Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = Integer
+Number of Key Compares = 247371
+Number of Data Moves = 739116
+Times in Milliseconds = 22.241
+First 5 pairs:
+	(7, 7)   	(11, 11)   	(15, 15)   	(39, 39)   	(59, 59)   
+Last 5 pairs:
+	(8163, 8163)   	(8167, 8167)   	(8175, 8175)   	(8183, 8183)   	(8191, 8191)   
+
+Sorting Method = Merge Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = Integer
+Number of Key Compares = 8711
+Number of Data Moves = 10030
+Times in Milliseconds = 0.845
+First 5 pairs:
+	(7, 7)   	(11, 11)   	(15, 15)   	(39, 39)   	(59, 59)   
+Last 5 pairs:
+	(8163, 8163)   	(8167, 8167)   	(8175, 8175)   	(8183, 8183)   	(8191, 8191)   
+
+Sorting Method = Quick Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = Integer
+Number of Key Compares = 18300
+Number of Data Moves = 7173
+Times in Milliseconds = 1.374
+First 5 pairs:
+	(7, 7)   	(11, 11)   	(15, 15)   	(39, 39)   	(59, 59)   
+Last 5 pairs:
+	(8155, 8155)   	(8163, 8163)   	(8167, 8167)   	(8175, 8175)   	(8191, 8191)   
+
+Sorting Method = Shell Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = Integer
+Number of Key Compares = 798131
+Number of Data Moves = 22242
+Times in Milliseconds = 5.508
+First 5 pairs:
+	(7, 7)   	(11, 11)   	(15, 15)   	(39, 39)   	(59, 59)   
+Last 5 pairs:
+	(8163, 8163)   	(8167, 8167)   	(8175, 8175)   	(8183, 8183)   	(8191, 8191)   
+
+Sorting Method = Radix Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = Integer
+Number of Key Compares = 0
+Number of Data Moves = 0
+Times in Milliseconds = 0.544
+First 5 pairs:
+	(7, 7)   	(11, 11)   	(15, 15)   	(39, 39)   	(59, 59)   
+Last 5 pairs:
+	(8163, 8163)   	(8167, 8167)   	(8175, 8175)   	(8183, 8183)   	(8191, 8191)   
+
+Sorting Method = Selection Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = String
+Number of Key Compares = 499500
+Number of Data Moves = 3000
+Times in Milliseconds = 24.223
+First 5 pairs:
+	(103, 103)   	(1035, 1035)   	(1047, 1047)   	(1055, 1055)   	(1063, 1063)   
+Last 5 pairs:
+	(955, 955)   	(959, 959)   	(987, 987)   	(99, 99)   	(995, 995)   
+
+Sorting Method = Insertion Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = String
+Number of Key Compares = 244356
+Number of Data Moves = 730071
+Times in Milliseconds = 32.056
+First 5 pairs:
+	(103, 103)   	(1035, 1035)   	(1047, 1047)   	(1055, 1055)   	(1063, 1063)   
+Last 5 pairs:
+	(955, 955)   	(959, 959)   	(987, 987)   	(99, 99)   	(995, 995)   
+
+Sorting Method = Merge Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = String
+Number of Key Compares = 8733
+Number of Data Moves = 10030
+Times in Milliseconds = 1.009
+First 5 pairs:
+	(103, 103)   	(1035, 1035)   	(1047, 1047)   	(1055, 1055)   	(1063, 1063)   
+Last 5 pairs:
+	(955, 955)   	(959, 959)   	(987, 987)   	(99, 99)   	(995, 995)   
+
+Sorting Method = Quick Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = String
+Number of Key Compares = 18270
+Number of Data Moves = 7137
+Times in Milliseconds = 1.846
+First 5 pairs:
+	(103, 103)   	(1035, 1035)   	(1047, 1047)   	(1055, 1055)   	(1063, 1063)   
+Last 5 pairs:
+	(95, 95)   	(955, 955)   	(959, 959)   	(987, 987)   	(99, 99)   
+
+Sorting Method = Shell Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000
+Sorted Key Data Type = String
+Number of Key Compares = 798131
+Number of Data Moves = 23139
+Times in Milliseconds = 44.139
+First 5 pairs:
+	(103, 103)   	(1035, 1035)   	(1047, 1047)   	(1055, 1055)   	(1063, 1063)   
+Last 5 pairs:
+	(955, 955)   	(959, 959)   	(987, 987)   	(99, 99)   	(995, 995)   
+
+Sorting Method = Merge Sort
+Input File Name = large100k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = Integer
+Number of Key Compares = 1566353
+Number of Data Moves = 1700051
+Times in Milliseconds = 180.776
+First 5 pairs:
+	(1, 1)   	(2, 2)   	(3, 3)   	(4, 4)   	(5, 5)   
+Last 5 pairs:
+	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   	(99999, 99999)   	(100000, 100000)   
+
+Sorting Method = Quick Sort
+Input File Name = large100k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = Integer
+Number of Key Compares = 3091040
+Number of Data Moves = 1178331
+Times in Milliseconds = 275.239
+First 5 pairs:
+	(1, 1)   	(2, 2)   	(3, 3)   	(4, 4)   	(5, 5)   
+Last 5 pairs:
+	(99995, 99995)   	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   	(100000, 100000)   
+
+Sorting Method = Shell Sort
+Input File Name = large100k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = Integer
+Number of Key Compares = -258856816
+Number of Data Moves = 8538312
+Times in Milliseconds = 58424.3
+First 5 pairs:
+	(1, 1)   	(2, 2)   	(3, 3)   	(4, 4)   	(5, 5)   
+Last 5 pairs:
+	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   	(99999, 99999)   	(100000, 100000)   
+
+Sorting Method = Radix Sort
+Input File Name = large100k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = Integer
+Number of Key Compares = 0
+Number of Data Moves = 0
+Times in Milliseconds = 93.517
+First 5 pairs:
+	(1, 1)   	(2, 2)   	(3, 3)   	(4, 4)   	(5, 5)   
+Last 5 pairs:
+	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   	(99999, 99999)   	(100000, 100000)   
+
+Sorting Method = Merge Sort
+Input File Name = large100k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = String
+Number of Key Compares = 1566415
+Number of Data Moves = 1700051
+Times in Milliseconds = 177.462
+First 5 pairs:
+	(1, 1)   	(10, 10)   	(100, 100)   	(1000, 1000)   	(10000, 10000)   
+Last 5 pairs:
+	(99995, 99995)   	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   	(99999, 99999)   
+
+Sorting Method = Quick Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = String
+Number of Key Compares = 3013837
+Number of Data Moves = 1174647
+Times in Milliseconds = 297.66
+First 5 pairs:
+	(1, 1)   	(10, 10)   	(100, 100)   	(1000, 1000)   	(10000, 10000)   
+Last 5 pairs:
+	(99994, 99994)   	(99995, 99995)   	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   
+
+Sorting Method = Shell Sort
+Input File Name = small1k.txt
+Number of Values Sorted = 1000000
+Sorted Key Data Type = String
+Number of Key Compares = -258856816
+Number of Data Moves = 8735352
+Times in Milliseconds = 440652
+First 5 pairs:
+	(1, 1)   	(10, 10)   	(100, 100)   	(1000, 1000)   	(10000, 10000)   
+Last 5 pairs:
+	(99995, 99995)   	(99996, 99996)   	(99997, 99997)   	(99998, 99998)   	(99999, 99999)   
+
